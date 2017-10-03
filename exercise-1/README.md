@@ -1,5 +1,7 @@
 # Exercise-1
 
+Anni was here~
+
 The purpose of this exercise is to practice the steps you'll need to
 use in future exercises. We'll begin by configuring your GitHub
 account for your machine (which you'll only need to do once), and then
